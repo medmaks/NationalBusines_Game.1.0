@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 9fd992c6f2adffc4dbbb21af5ef263dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1299296447711733434
+    second: Pngtreegloble world map create with_8628160_0
+  - first:
+      213: -3666574218207104266
+    second: Pngtreegloble world map create with_8628160_1
+  - first:
+      213: -195552489764301045
+    second: Pngtreegloble world map create with_8628160_2
+  - first:
+      213: -5945966004834695683
+    second: Pngtreegloble world map create with_8628160_3
+  - first:
+      213: 6793277522475668730
+    second: Pngtreegloble world map create with_8628160_4
+  - first:
+      213: 6454587284526943737
+    second: Pngtreegloble world map create with_8628160_5
+  - first:
+      213: 319045803407355680
+    second: Pngtreegloble world map create with_8628160_6
+  - first:
+      213: -848786019988798737
+    second: Pngtreegloble world map create with_8628160_7
+  - first:
+      213: -7854793552920743906
+    second: Pngtreegloble world map create with_8628160_8
+  - first:
+      213: -5922359685084557398
+    second: Pngtreegloble world map create with_8628160_9
+  - first:
+      213: 6265507076696295929
+    second: Pngtreegloble world map create with_8628160_10
+  - first:
+      213: -4799171671239729695
+    second: Pngtreegloble world map create with_8628160_11
+  - first:
+      213: -6875810347540507128
+    second: Pngtreegloble world map create with_8628160_12
+  - first:
+      213: 1230029394465891392
+    second: Pngtreegloble world map create with_8628160_13
+  - first:
+      213: 2845801640222588702
+    second: Pngtreegloble world map create with_8628160_14
+  - first:
+      213: 2330599832459252823
+    second: Pngtreegloble world map create with_8628160_15
+  - first:
+      213: 4637848525650454830
+    second: Pngtreegloble world map create with_8628160_16
+  - first:
+      213: 4662002742650730551
+    second: Pngtreegloble world map create with_8628160_17
+  - first:
+      213: -538222365374445666
+    second: Pngtreegloble world map create with_8628160_18
+  - first:
+      213: 6363371697398884103
+    second: Pngtreegloble world map create with_8628160_19
+  - first:
+      213: 5157988592512808116
+    second: Pngtreegloble world map create with_8628160_20
+  - first:
+      213: -3319307168617092898
+    second: Pngtreegloble world map create with_8628160_21
+  - first:
+      213: -2657184543378130798
+    second: Pngtreegloble world map create with_8628160_22
+  - first:
+      213: -8013185543082791221
+    second: Pngtreegloble world map create with_8628160_23
+  - first:
+      213: -6221733401261998820
+    second: Pngtreegloble world map create with_8628160_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 607
+        width: 1165
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6491738c3c8f7fde0800000000000000
+      internalID: -1299296447711733434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_1
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 922
+        width: 1533
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2f825cc26bd1dc0800000000000000
+      internalID: -3666574218207104266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_2
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 883
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d7a0fb02494df0800000000000000
+      internalID: -195552489764301045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_3
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 913
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df58743fb6fab7da0800000000000000
+      internalID: -5945966004834695683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_4
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 909
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4dec31ae1964e50800000000000000
+      internalID: 6793277522475668730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_5
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 859
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd4bf9ffec439950800000000000000
+      internalID: 6454587284526943737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_6
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 878
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fac23c77a7d6400800000000000000
+      internalID: 319045803407355680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_7
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 691
+        width: 155
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe20044ac918834f0800000000000000
+      internalID: -848786019988798737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_8
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 543
+        width: 341
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10712e41ea2ef290800000000000000
+      internalID: -7854793552920743906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_9
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 775
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafc0729e3d8fcda0800000000000000
+      internalID: -5922359685084557398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_10
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 723
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9cd2c7d7d83f650800000000000000
+      internalID: 6265507076696295929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_11
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 620
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed53a7cacae56db0800000000000000
+      internalID: -4799171671239729695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_12
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 646
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80694e32be63490a0800000000000000
+      internalID: -6875810347540507128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_13
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 670
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044ad60a731f11110800000000000000
+      internalID: 1230029394465891392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_14
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 607
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ff0ba93815e7720800000000000000
+      internalID: 2845801640222588702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_15
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 529
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75491571334f75020800000000000000
+      internalID: 2330599832459252823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_16
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 499
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29e67569a2fc5040800000000000000
+      internalID: 4637848525650454830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_17
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 519
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738f7994bc2c2b040800000000000000
+      internalID: 4662002742650730551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_18
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 481
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e978fad3c99d788f0800000000000000
+      internalID: -538222365374445666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_19
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 433
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7072c3d18dc3f4850800000000000000
+      internalID: 6363371697398884103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_20
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 357
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b43e34fb4bd49740800000000000000
+      internalID: 5157988592512808116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_21
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 333
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8ab2277b37fe1d0800000000000000
+      internalID: -3319307168617092898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_22
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 360
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298b9457cb8cf1bd0800000000000000
+      internalID: -2657184543378130798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_23
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 371
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce214944327bc090800000000000000
+      internalID: -8013185543082791221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreegloble world map create with_8628160_24
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 377
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d789a8f66f7a9a0800000000000000
+      internalID: -6221733401261998820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pngtreegloble world map create with_8628160_0: -1299296447711733434
+      Pngtreegloble world map create with_8628160_1: -3666574218207104266
+      Pngtreegloble world map create with_8628160_10: 6265507076696295929
+      Pngtreegloble world map create with_8628160_11: -4799171671239729695
+      Pngtreegloble world map create with_8628160_12: -6875810347540507128
+      Pngtreegloble world map create with_8628160_13: 1230029394465891392
+      Pngtreegloble world map create with_8628160_14: 2845801640222588702
+      Pngtreegloble world map create with_8628160_15: 2330599832459252823
+      Pngtreegloble world map create with_8628160_16: 4637848525650454830
+      Pngtreegloble world map create with_8628160_17: 4662002742650730551
+      Pngtreegloble world map create with_8628160_18: -538222365374445666
+      Pngtreegloble world map create with_8628160_19: 6363371697398884103
+      Pngtreegloble world map create with_8628160_2: -195552489764301045
+      Pngtreegloble world map create with_8628160_20: 5157988592512808116
+      Pngtreegloble world map create with_8628160_21: -3319307168617092898
+      Pngtreegloble world map create with_8628160_22: -2657184543378130798
+      Pngtreegloble world map create with_8628160_23: -8013185543082791221
+      Pngtreegloble world map create with_8628160_24: -6221733401261998820
+      Pngtreegloble world map create with_8628160_3: -5945966004834695683
+      Pngtreegloble world map create with_8628160_4: 6793277522475668730
+      Pngtreegloble world map create with_8628160_5: 6454587284526943737
+      Pngtreegloble world map create with_8628160_6: 319045803407355680
+      Pngtreegloble world map create with_8628160_7: -848786019988798737
+      Pngtreegloble world map create with_8628160_8: -7854793552920743906
+      Pngtreegloble world map create with_8628160_9: -5922359685084557398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

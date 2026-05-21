@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 2eff02fcb0c1da74f89cebd3537a0289
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1821014359298903618
+    second: MapWorld_0
+  - first:
+      213: 4028198111350894050
+    second: MapWorld_1
+  - first:
+      213: 3710114675209723011
+    second: MapWorld_2
+  - first:
+      213: 1038124184341153110
+    second: MapWorld_3
+  - first:
+      213: -8480369593012352102
+    second: MapWorld_4
+  - first:
+      213: 6426686821593008077
+    second: MapWorld_5
+  - first:
+      213: 7459601979634593657
+    second: MapWorld_6
+  - first:
+      213: 8308506891284637437
+    second: MapWorld_7
+  - first:
+      213: -5272945024508996225
+    second: MapWorld_8
+  - first:
+      213: -5550103628436110194
+    second: MapWorld_9
+  - first:
+      213: 8556679356325773276
+    second: MapWorld_10
+  - first:
+      213: 8289102689745671270
+    second: MapWorld_11
+  - first:
+      213: -7881161130973469292
+    second: MapWorld_12
+  - first:
+      213: -6863508497328393145
+    second: MapWorld_13
+  - first:
+      213: 2327439612833451933
+    second: MapWorld_14
+  - first:
+      213: 5861765228279344112
+    second: MapWorld_15
+  - first:
+      213: 4652267442433952394
+    second: MapWorld_16
+  - first:
+      213: 6519497555050710752
+    second: MapWorld_17
+  - first:
+      213: 1498904542568061415
+    second: MapWorld_18
+  - first:
+      213: 3184364300359175438
+    second: MapWorld_19
+  - first:
+      213: 5571391975579819309
+    second: MapWorld_20
+  - first:
+      213: -6326531659134575817
+    second: MapWorld_21
+  - first:
+      213: -7325444246829994090
+    second: MapWorld_22
+  - first:
+      213: -4214316977919229610
+    second: MapWorld_23
+  - first:
+      213: 2498776862092195187
+    second: MapWorld_24
+  - first:
+      213: -6194415727163283707
+    second: MapWorld_25
+  - first:
+      213: -6887181006410850363
+    second: MapWorld_26
+  - first:
+      213: 3030553410485041190
+    second: MapWorld_27
+  - first:
+      213: 5385247036103687722
+    second: MapWorld_28
+  - first:
+      213: -317083669963907651
+    second: MapWorld_29
+  - first:
+      213: 3336225007906628213
+    second: MapWorld_30
+  - first:
+      213: -9183801591108233664
+    second: MapWorld_31
+  - first:
+      213: -6604037376744236155
+    second: MapWorld_32
+  - first:
+      213: -3014306610675536534
+    second: MapWorld_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapWorld_0
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 733
+        width: 142
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb17a1f96157ab6e0800000000000000
+      internalID: -1821014359298903618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 556
+        width: 241
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed28f707d807e730800000000000000
+      internalID: 4028198111350894050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_2
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 840
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cd6dbd3a9fc7330800000000000000
+      internalID: 3710114675209723011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_3
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 832
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65585680278286e00800000000000000
+      internalID: 1038124184341153110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_4
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 780
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b897c39ccaf4a80800000000000000
+      internalID: -8480369593012352102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 809
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74cbb3d9d203950800000000000000
+      internalID: 6426686821593008077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 824
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fabe15a74d58760800000000000000
+      internalID: 7459601979634593657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_7
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 817
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6e7ec4ffebd4370800000000000000
+      internalID: 8308506891284637437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 799
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f755afdff6cb2d6b0800000000000000
+      internalID: -5272945024508996225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 740
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e848578d7221af2b0800000000000000
+      internalID: -5550103628436110194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 809
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf37b21a8e6fb670800000000000000
+      internalID: 8556679356325773276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 809
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66496019afec80370800000000000000
+      internalID: 8289102689745671270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 771
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495e5b225bd70a290800000000000000
+      internalID: -7881161130973469292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 753
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744bdd7d26befb0a0800000000000000
+      internalID: -6863508497328393145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 761
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f4c1f1ff9bc4020800000000000000
+      internalID: 2327439612833451933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 754
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fba35c0b6c295150800000000000000
+      internalID: 5861765228279344112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_16
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 765
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a0462179c209040800000000000000
+      internalID: 4652267442433952394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_17
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 767
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e643da0c78e97a50800000000000000
+      internalID: 6519497555050710752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 730
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e91dfb6dbd2dc410800000000000000
+      internalID: 1498904542568061415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 760
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d085ea572213c20800000000000000
+      internalID: 3184364300359175438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 751
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d95e8bb7f815d40800000000000000
+      internalID: 5571391975579819309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_21
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 119
+        width: 840
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b5505b9f4a338a0800000000000000
+      internalID: -6326531659134575817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 724
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fe4c5f44bc65a90800000000000000
+      internalID: -7325444246829994090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 707
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6510a38790db385c0800000000000000
+      internalID: -4214316977919229610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 716
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37578f521507da220800000000000000
+      internalID: 2498776862092195187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 716
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507e65f27b3090aa0800000000000000
+      internalID: -6194415727163283707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 707
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf50115d51db60a0800000000000000
+      internalID: -6887181006410850363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 457
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6283fc03540be0a20800000000000000
+      internalID: 3030553410485041190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_28
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 580
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7fa6a5ad3cba40800000000000000
+      internalID: 5385247036103687722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 186
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd59b7051e799bf0800000000000000
+      internalID: -317083669963907651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_30
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 88
+        width: 162
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ac07f7f6ac4e20800000000000000
+      internalID: 3336225007906628213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_31
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 70
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046935a5c159c8080800000000000000
+      internalID: -9183801591108233664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_32
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 50
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bd1cbdefeb954a0800000000000000
+      internalID: -6604037376744236155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWorld_33
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 82
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6da29aab180b26d0800000000000000
+      internalID: -3014306610675536534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MapWorld_0: -1821014359298903618
+      MapWorld_1: 4028198111350894050
+      MapWorld_10: 8556679356325773276
+      MapWorld_11: 8289102689745671270
+      MapWorld_12: -7881161130973469292
+      MapWorld_13: -6863508497328393145
+      MapWorld_14: 2327439612833451933
+      MapWorld_15: 5861765228279344112
+      MapWorld_16: 4652267442433952394
+      MapWorld_17: 6519497555050710752
+      MapWorld_18: 1498904542568061415
+      MapWorld_19: 3184364300359175438
+      MapWorld_2: 3710114675209723011
+      MapWorld_20: 5571391975579819309
+      MapWorld_21: -6326531659134575817
+      MapWorld_22: -7325444246829994090
+      MapWorld_23: -4214316977919229610
+      MapWorld_24: 2498776862092195187
+      MapWorld_25: -6194415727163283707
+      MapWorld_26: -6887181006410850363
+      MapWorld_27: 3030553410485041190
+      MapWorld_28: 5385247036103687722
+      MapWorld_29: -317083669963907651
+      MapWorld_3: 1038124184341153110
+      MapWorld_30: 3336225007906628213
+      MapWorld_31: -9183801591108233664
+      MapWorld_32: -6604037376744236155
+      MapWorld_33: -3014306610675536534
+      MapWorld_4: -8480369593012352102
+      MapWorld_5: 6426686821593008077
+      MapWorld_6: 7459601979634593657
+      MapWorld_7: 8308506891284637437
+      MapWorld_8: -5272945024508996225
+      MapWorld_9: -5550103628436110194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
