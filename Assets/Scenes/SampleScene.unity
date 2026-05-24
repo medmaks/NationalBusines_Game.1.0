@@ -1235,7 +1235,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 50
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -4131,7 +4131,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 50
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -4382,7 +4382,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1177418831
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5366,8 +5366,8 @@ RectTransform:
   - {fileID: 1742863677}
   - {fileID: 1463982086}
   - {fileID: 370529869}
-  - {fileID: 1797482733}
   - {fileID: 1177418831}
+  - {fileID: 1797482733}
   - {fileID: 2005881516}
   - {fileID: 1635457310}
   m_Father: {fileID: 0}
@@ -5632,7 +5632,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 50
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -5695,7 +5695,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1797482733
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7342,7 +7342,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CurrencyManager
   totalClicks: 0
   totalMoneyFromClicks: 0
-  balance: 1
+  balance: 0
   moneyPerClick: 1
   upgradeCost: 10
   clickLevel: 1
