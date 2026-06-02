@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Auto Dealership Data
   m_EditorClassIdentifier: Assembly-CSharp::BusinessData
   businessName: Auto Dealership
-  icon: {fileID: 0}
+  icon: {fileID: -327472809594383227, guid: 573ca615ba33fb840aedfc71b96adaa6, type: 3}
   basePrice: 100000
-  baseIncome: 6250
+  baseIncome: 6500
+  maxLevel: 15

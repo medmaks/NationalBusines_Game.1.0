@@ -16,3 +16,4 @@ MonoBehaviour:
   icon: {fileID: -2309369795748824026, guid: 126e27826d1ec3441903c0ba5f7c7597, type: 3}
   basePrice: 25000
   baseIncome: 1900
+  maxLevel: 18

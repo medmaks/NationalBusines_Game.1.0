@@ -29,13 +29,13 @@ MonoBehaviour
     [Header("Множники")]
 
     public float
-        incomeMultiplier =
+        incomeMultiplier = // На це число множиться дохід кожного бізнесу
         1.25f;
 
 
     public float
-        upgradeCostMultiplier =
-        1.45f;
+        upgradeCostMultiplier = // На це число множиться ціна апгрейду кожного бізнесу
+        1.05f;
 
 
 
@@ -49,9 +49,7 @@ MonoBehaviour
     new();
 
 
-
     float timer;
-
 
 
     void Awake()
@@ -60,16 +58,13 @@ MonoBehaviour
     }
 
 
-
-
     void Update()
     {
         timer +=
         Time.deltaTime;
 
 
-
-        // Пасивний дохід кожні 5 сек
+        // Пасивний дохід кожні 5 для демки але стандарт 60 сек
         if(
             timer >= 5f
         )
@@ -82,11 +77,8 @@ MonoBehaviour
 
 
 
-    //--------------------------------
 
-
-
-    public void BuyBusiness(
+    public void BuyBusiness( // метод викликається при купівлі нового бізнесу
         BusinessData data
     )
     {
@@ -99,7 +91,6 @@ MonoBehaviour
         ownedContainer
 
         );
-
 
 
         OwnedBusinessCard card =
@@ -125,13 +116,8 @@ MonoBehaviour
         );
 
 
-
         UpdateGlobalIncome();
     }
-
-
-
-    //--------------------------------
 
 
 
@@ -140,14 +126,12 @@ MonoBehaviour
         double total = 0;
 
 
-
         foreach(
             var business
             in businesses
         )
         {
-            // Якщо бізнес видалився —
-            // пропускаю
+
 
             if(
                 business
@@ -166,7 +150,6 @@ MonoBehaviour
         }
 
 
-
         if(
             CurrencyManager
             .Instance
@@ -176,23 +159,15 @@ MonoBehaviour
             return;
 
 
-
         CurrencyManager
         .Instance
         .balance += total;
-
 
 
         CurrencyManager
         .Instance
         .UpdateUI();
     }
-
-
-
-    //--------------------------------
-
-
 
     // Плашка загального доходу усіх компаній
     public void UpdateGlobalIncome()

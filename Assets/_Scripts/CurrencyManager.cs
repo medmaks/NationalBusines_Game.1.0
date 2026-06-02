@@ -21,7 +21,7 @@ public double totalMoneyFromClicks = 0;
     public int clickLevel = 1;
     public int maxLevel = 50; 
 
-    [Header("Налаштування прогресії")]
+    [Header("Налаштування прогресії")] // Ці налаштування визначають, як швидко зростає дохід та вартість апгрейдів
     [Tooltip("На це число множиться дохід за клік (напр. 1.4 = +40%)")]
     public double clickMultiplier = 1.4; 
     [Tooltip("На це число множиться ціна наступного апгрейду")]
@@ -67,8 +67,8 @@ public double totalMoneyFromClicks = 0;
         }
     }
 
-    // ТЕПЕР ТУТ СТОЯТЬ ПЕРЕВІРКИ
-    public void UpdateUI()
+    //ПЕРЕВІРКИ
+    public void UpdateUI() // Оновлює всі елементи UI, пов'язані з валютою та апгрейдами
     {
         if (balanceText != null)
             balanceText.text = "$" + balance.ToString("N2");

@@ -13,8 +13,7 @@ MonoBehaviour
 
 
 
-    // Я прив'язую екрани,
-    // щоб не використовувати Find()
+    // UI для магазину
 
     public GameObject
         shopView;
@@ -41,7 +40,7 @@ MonoBehaviour
 
     public void Buy()
     {
-        // Перевіряю чи вистачає грошей
+        // Якщо грошей не вистачає - нічого не робе
         if(
             CurrencyManager
             .Instance
@@ -57,7 +56,7 @@ MonoBehaviour
 
 
 
-        // Віднімаю гроші
+        // Віднімає гроші
         CurrencyManager
         .Instance
         .balance -=
@@ -72,7 +71,7 @@ MonoBehaviour
 
 
 
-        // Купую бізнес
+        // купує бізнес
         BusinessManager
         .Instance
         .BuyBusiness(
@@ -81,7 +80,7 @@ MonoBehaviour
 
 
 
-        // Закриваю магазин
+        // Закриває магазин
         if(
             shopView
             != null
@@ -93,7 +92,7 @@ MonoBehaviour
 
 
 
-        // Відкриваю сторінку бізнесів
+        // Відкриває сторінку бізнесів
         if(
             businessView
             != null

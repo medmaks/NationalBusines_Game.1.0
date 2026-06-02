@@ -17,7 +17,8 @@ MonoBehaviour
     public TextMeshProUGUI
         upgradePriceText;
 
-
+    public TextMeshProUGUI
+        levelLimitText;
 
     private int level = 1;
 
@@ -25,16 +26,13 @@ MonoBehaviour
 
 
 
-    //---------------------------------
-    // Створюю нову компанію
-    //---------------------------------
 
+    // Створює нову компанію
     public void SetupCard(
         BusinessData business
     )
     {
         data = business;
-
 
         if (
             iconImage != null
@@ -46,19 +44,15 @@ MonoBehaviour
                 business.icon;
         }
 
-
         if (nameText != null)
         {
             nameText.text =
                 business.businessName;
         }
 
-
         RefreshUI();
 
-
-        // Оновлюю загальний дохід
-        // після створення бізнесу
+        // Оновлюється загальний дохід при створенні компанії
         if (
             BusinessManager
             .Instance != null
@@ -71,19 +65,18 @@ MonoBehaviour
     }
 
 
-
-    //---------------------------------
     // Кнопка апгрейду
-    //---------------------------------
-
     public void Upgrade()
     {
+        if (level >= data.maxLevel)
+    {
+     return;
+    }
+        
         double price =
             GetUpgradePrice();
 
-
-        // Якщо грошей мало —
-        // просто виходжу
+        // Перевірка, чи вистачає грошей на апгрейд
         if (
             CurrencyManager
             .Instance
@@ -93,28 +86,18 @@ MonoBehaviour
             return;
         }
 
+        level++;
 
         CurrencyManager
         .Instance
         .balance -= price;
 
-
-        level++;
-
-
         CurrencyManager
         .Instance
         .UpdateUI();
 
-
         RefreshUI();
 
-
-
-        // Я забував оновити
-        // глобальний дохід,
-        // через це зверху були
-        // старі цифри
         if (
             BusinessManager
             .Instance != null
@@ -127,11 +110,7 @@ MonoBehaviour
     }
 
 
-
-    //---------------------------------
     // Поточний дохід бізнесу
-    //---------------------------------
-
     public double GetIncome()
     {
         return System.Math.Round(
@@ -152,36 +131,29 @@ MonoBehaviour
     }
 
 
-
-    //---------------------------------
     // Ціна апгрейду
-    //---------------------------------
+public double GetUpgradePrice()
+{
+    return System.Math.Round(
 
-    public double GetUpgradePrice()
-    {
-        return System.Math.Round(
+        (data.basePrice * 0.9f) * //-10% від базової ціни
 
-            data.basePrice *
+        Mathf.Pow(
 
-            Mathf.Pow(
+            BusinessManager
+            .Instance
+            .upgradeCostMultiplier,
 
-                BusinessManager
-                .Instance
-                .upgradeCostMultiplier,
+            level
 
-                level
+        )
 
-            )
-
-        );
-    }
+    );
+}
 
 
 
-    //---------------------------------
     // Оновлення UI картки
-    //---------------------------------
-
     public void RefreshUI()
     {
         if (
@@ -201,8 +173,6 @@ MonoBehaviour
             " <size=40%><color=#FFFFFF99>per hour</color></size>";
         }
 
-
-
         if (
             upgradePriceText != null
         )
@@ -216,10 +186,17 @@ MonoBehaviour
             GetUpgradePrice();
         }
 
+        if (
+            levelLimitText != null
+        )
+        {
+            levelLimitText.text =
+                level +
+                "/" +
+                data.maxLevel;
+        }
 
-
-        // Поки прибираю рівень,
-        // потім зроблю окремо
+        // Оновлення назви компанії
         if (
             nameText != null
         )
