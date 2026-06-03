@@ -205,4 +205,28 @@ public double GetUpgradePrice()
                 data.businessName;
         }
     }
+    public double GetTotalValue()
+    {
+     double totalValue = data.basePrice;
+
+     for (int i = 1; i < level; i++)
+     {
+        totalValue += System.Math.Round(
+
+            data.basePrice * 0.9 *
+
+            Mathf.Pow(
+
+                BusinessManager
+                .Instance
+                .upgradeCostMultiplier,
+
+                i
+
+            )
+        );
+    }
+
+    return totalValue;
+ }
 }

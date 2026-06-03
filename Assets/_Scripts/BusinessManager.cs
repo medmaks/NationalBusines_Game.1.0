@@ -77,7 +77,6 @@ MonoBehaviour
 
 
 
-
     public void BuyBusiness( // метод викликається при купівлі нового бізнесу
         BusinessData data
     )
@@ -212,4 +211,45 @@ MonoBehaviour
             );
         }
     }
+    public double GetEmpireValue()
+{
+    double total = 0;
+
+    foreach (var business in businesses)
+    {
+        if (business == null)
+            continue;
+
+        total += business.GetTotalValue();
+    }
+
+    if (CurrencyManager.Instance != null)
+    {
+        total += CurrencyManager.Instance.balance;
+    }
+
+    return System.Math.Round(total);
+}
+    public double GetTotalIncome()
+{
+    double total = 0;
+
+    foreach (
+        var business
+        in businesses
+    )
+    {
+        if (
+            business == null
+        )
+        {
+            continue;
+        }
+
+        total +=
+            business.GetIncome();
+    }
+
+    return total;
+}
 }
